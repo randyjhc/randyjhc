@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @randyjh-chen
-- 👀 I’m interested in ML, CV, and LLM.
-- 🌱 I’m currently pursuing a MSCS degree at USC.
-- 💞️ I’m looking to collaborate on an MLE/SDE internship.
+- 👀 I’m interested in ML, CV, and LLM
+- 🌱 I’m currently pursuing an MSCS degree at USC
+- 💞️ I’m looking for an MLE/SDE internship
 - 📫 I'm best reached through LinkedIn: in/randyjhc
 - ⚡ I'm a fan of Dodgers and Shohei Otani
 
