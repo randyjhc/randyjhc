@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @randyjh-chen
+- 👋 Hi, I’m @randyjhc
 - 👀 I’m interested in ML, CV, and LLM
 - 🌱 I’m currently pursuing an MSCS degree at USC
 - 💞️ I’m looking for an MLE/SDE internship
